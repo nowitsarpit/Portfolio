@@ -1,0 +1,27 @@
+export const siteConfig = {
+  name: "Arpit Kumar",
+  initials: "AK",
+  title: "Arpit Kumar — AI & Full-Stack Developer",
+  description:
+    "Computer Science Engineer building AI, full-stack, SaaS, mobile and cybersecurity software. Based in Bengaluru, India.",
+  url: "",
+  email: "rajarpit2631@gmail.com",
+  github: "https://github.com/nowitsarpit",
+  githubUsername: "nowitsarpit",
+  linkedin: "https://linkedin.com/in/nowitsarpit",
+  whatsapp: "7484090479",
+  phone: "6201534808",
+  resumeUrl: "/resume",
+  availability: "Open to Full-Time, Internships & Collaborations",
+  location: "Bengaluru, India",
+  role: "Computer Science Engineer",
+  focus: ["AI / ML", "Full-Stack Development", "Software Engineering", "Cybersecurity", "Cloud / DevOps"],
+  education: {
+    institution: "Alliance University",
+    degree: "B.Tech — Computer Science & Engineering",
+    location: "Bengaluru, India",
+    semester: "7th Semester",
+    cgpa: "8.0",
+    role: "",
+  },
+};
